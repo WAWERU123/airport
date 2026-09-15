@@ -45,7 +45,8 @@ A 15-step pipeline, in three phases:
 ![JKIA passenger traffic recovery, 2019–2022](images/jkia-recovery-status.png)
 *Monthly passenger traffic, recovery status, and route-level recovery ratios.*
 
-![Route volatility and regional share shift](images/jkia-route-volatility.png)
+![Route volatility and regional share shift](![Uploading image.png…]()
+)
 *Route volatility, post-COVID recovery momentum, and regional share shift.*
 
 ## What I'd Extend Next
