@@ -1,9 +1,8 @@
-# airport
 # ✈️ JKIA Aviation Recovery Analysis: Beyond the Pandemic
 
 An end-to-end BigQuery analysis of how Jomo Kenyatta International Airport — East Africa's largest aviation hub — recovered from COVID-19, and how its route network changed shape in the process.
 
-**[→ View the live dashboard on Tableau Public](#)**
+**[→ View the live dashboard on Tableau Public](https://public.tableau.com/views/TrafficAnalytics_17894144407200/JKIAPassengerRecoveryRoutePerformanceExecutiveOverview?:language=en-US&publish=yes&:origin=viz_share_link)**
 
 ---
 
@@ -25,6 +24,10 @@ The short version: JKIA didn't just recover. It regionalized.
 
 **The story behind the numbers:** intra-African and Gulf-hub routes — Addis Ababa, Dubai — gained share as airlines consolidated around high-certainty regional connections, while several long-haul European and Middle Eastern routes never returned to pre-pandemic volumes. JKIA's post-COVID network looks meaningfully more regional than it did in 2019.
 
+## Data Source
+
+**JKIA Passengers by Destination** — Maven Analytics' Kenya dataset series, tracking passenger movement from Jomo Kenyatta International Airport across destinations and reporting periods.
+
 ## Tech Stack
 
 - **Warehouse:** Google BigQuery
@@ -42,11 +45,10 @@ A 15-step pipeline, in three phases:
 
 ## Dashboard
 
-![JKIA passenger traffic recovery, 2019–2022](images/jkia-recovery-status.png)
+![JKIA passenger traffic recovery, 2019–2022](jkia-dashboard.png)
 *Monthly passenger traffic, recovery status, and route-level recovery ratios.*
 
-![Route volatility and regional share shift](![Uploading image.png…]()
-)
+![Route volatility and regional share shift](recovery.png)
 *Route volatility, post-COVID recovery momentum, and regional share shift.*
 
 ## What I'd Extend Next
@@ -57,5 +59,4 @@ A 15-step pipeline, in three phases:
 
 ---
 
-**Data source:** [add source + link]
-**Contact:** Catherine Waweru — [kathyweru85@gmail.com](mailto:kathyweru85@gmail.com)
+**Contact:** [Reach me through my portfolio](https://waweru123.github.io/#contact) · [LinkedIn](http://www.linkedin.com/in/waweru-c48b838220)
