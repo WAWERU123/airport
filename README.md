@@ -8,9 +8,9 @@ An end-to-end BigQuery analysis of how Jomo Kenyatta International Airport — E
 
 ## Overview
 
-Most "COVID recovery" analyses stop at one question: did traffic come back? This one goes further — using monthly passenger data across 41 international routes (June 2019–August 2022), it asks *which* routes came back, *how fast*, and *what changed permanently* about the airport's network in the process.
+Most "COVID recovery" analyses stop at one question: did traffic come back? This project goes further. Using monthly passenger data across 41 international routes (June 2019–August 2022), it investigates which routes came back, how fast, and what changed permanently about the airport's network in the process.
 
-The short version: JKIA didn't just recover. It regionalized.
+The short version: JKIA didn't just recover. It regionalized and diversified.
 
 ## Key Findings
 
